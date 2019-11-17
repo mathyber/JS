@@ -77,7 +77,7 @@ function arrayWithoutFalsy(mas){
 }
 
 console.log("7)");
-console.log(arrayWithoutFalsy([1, 0, "xvxv", "", false, NaN, "NaN" ,undefined, 43, "dfsd", "", 0, 1, 5]));
+console.log(arrayWithoutFalsy([1, 0, "xvxv", "", false, NaN, "fcgvbhjnkmlN" ,undefined, 43, "dfsd", "", 0, 1, 5]));
 
 //8. Написать функцию, которая на вход принимает массив, состоящий из двух строк.
 //Функция должна вернуть true, если строка в первом элементе массива содержит все
